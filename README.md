@@ -43,9 +43,6 @@ python main.py express
 - **Research:** Useful for understanding the evolution of open source ecosystem security.
 - **Education:** Demonstrates the importance of responsible data handling and privacy.
 
-## References
-- [npm Security Updates](https://blog.npmjs.org/post/2021-01-12-npm-security-update)
-- [Responsible Disclosure](https://responsibledisclosure.com/)
 
 ## License
 
