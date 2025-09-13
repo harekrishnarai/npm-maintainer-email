@@ -1,0 +1,788 @@
+{
+  "total_packages": 79,
+  "total_emails": 102,
+  "unique_emails": [
+    "rickmark@outlook.com",
+    "josefrancisco.verdu@gmail.com",
+    "apetrushchak@gmail.com",
+    "nikhilnamal16@mail.com",
+    "sertackarahoda@gmail.com",
+    "bjorn+npm@boonen.eu",
+    "zeke@sikelianos.com",
+    "johan.westin@whitespace.se",
+    "oyvinmar@gmail.com",
+    "harsha.ivaturi@gmail.com",
+    "espen@hovlandsdal.com",
+    "blakereidstevenson@gmail.com",
+    "baugames099@gmail.com",
+    "okize123@gmail.com",
+    "tom@thesnail.org",
+    "sergey@zwezdin.com",
+    "tituswormer@gmail.com",
+    "chileser@foxmail.com",
+    "aholachek@gmail.com",
+    "michaeldpadilla@gmail.com",
+    "shilman@gmail.com",
+    "paul@paulmillr.com",
+    "plittlewood@reapit.com",
+    "gert@chromatic.com",
+    "ci.bot@chromatic.com",
+    "andrewortwein@icloud.com",
+    "matthew.callis@gmail.com",
+    "armand@forgebinaire.net",
+    "nikhilnamal16@gmail.com",
+    "ondrej.elias@mediafactory.cz",
+    "ynwuay@gmail.com",
+    "kevinmartensson@gmail.com",
+    "npm@michaelcolenso.com",
+    "benjamin@tsubarah.com",
+    "ndelangen@me.com",
+    "tusharkantanayak713@gmail.com",
+    "joe_weisenthal@foxmail.com",
+    "vitamint100@gmail.com",
+    "xxsmotur@gmail.com",
+    "narendrahinge3@gmail.com",
+    "web3_jack@qq.com",
+    "seth@sethwestphal.com",
+    "goofy-code@outlook.com",
+    "hello@arafat.dev",
+    "areardon@atlassian.com",
+    "bhishma_p@hotmail.com",
+    "aaron@lifeiscontent.net",
+    "paul.brotherton@whitespace.se",
+    "dga.teles@gmail.com",
+    "samuelandraderive@gmail.com",
+    "bubkoo.wy@gmail.com",
+    "wmcvay@reapit.com",
+    "arafathusayn@gmail.com",
+    "asmyshlyaev177@gmail.com",
+    "shadiabuhilal@gmail.com",
+    "chowells@reapit.com",
+    "piotr.butlewski@syzygy.pl",
+    "hello@microlink.io",
+    "pablo@pablopunk.com",
+    "mvila@3base.com",
+    "3645848984@qq.com",
+    "john@velvetcache.org",
+    "l422y@l422y.com",
+    "admin@alteredgraphite.com",
+    "mun4kin@gmail.com",
+    "npm.uniuj@mail.limpan.dev",
+    "alexreardon@gmail.com",
+    "mail@danwebb.co",
+    "dscott@reapit.com",
+    "hey@etch.co",
+    "mertkahyaoglu93@gmail.com",
+    "andrew@amccloud.com",
+    "alex.hinds141@gmail.com",
+    "gentslava@mail.ru",
+    "code@whitespace.se",
+    "rovelstars300@gmail.com",
+    "jarelfryer@gmail.com",
+    "matiasbryan@gmail.com",
+    "jeanfredrik@gmail.com",
+    "campbell.andrew46@gmail.com",
+    "wangjiezhe@gmail.com",
+    "chairuman.thahir@gmail.com",
+    "3750118611@qq.com",
+    "humayun126224@gmail.com",
+    "dbkaup@gmail.com",
+    "ruslanalogosha@gmail.com",
+    "ajaynarainmathur@gmail.com",
+    "support@chromatic.com",
+    "yucel.n.okcu@gmail.com",
+    "josh@etch.co",
+    "johan.de.geer@whitespace.se",
+    "gavyn@etch.co",
+    "ella@etch.co",
+    "olivier.wietrich@gmail.com",
+    "dgonzalez83@gmail.com",
+    "lpgera@gmail.com",
+    "thefoxjones@gmail.com",
+    "m.moustafa@outlook.com",
+    "mohamedtaysser112@yahoo.com",
+    "tanel.terras@elisa.ee",
+    "mohamedtaysser983@gmai.com",
+    "ryanmiller732@gmail.com"
+  ],
+  "package_details": [
+    {
+      "package": "chromatic",
+      "emails": [
+        "shilman@gmail.com",
+        "support@chromatic.com",
+        "john@velvetcache.org",
+        "tom@thesnail.org",
+        "jarelfryer@gmail.com",
+        "gert@chromatic.com",
+        "ci.bot@chromatic.com",
+        "ndelangen@me.com",
+        "andrewortwein@icloud.com",
+        "vitamint100@gmail.com",
+        "dbkaup@gmail.com"
+      ],
+      "description": "Automate visual testing across browsers. Gather UI feedback. Versioned documentation.",
+      "downloads": 0
+    },
+    {
+      "package": "storybook-addon-apollo-client",
+      "emails": [
+        "aaron@lifeiscontent.net"
+      ],
+      "description": "Use Apollo Client in your Storybook stories.",
+      "downloads": 0
+    },
+    {
+      "package": "@etchteam/storybook-addon-status",
+      "emails": [
+        "mail@danwebb.co",
+        "hey@etch.co",
+        "josh@etch.co",
+        "gavyn@etch.co",
+        "ella@etch.co"
+      ],
+      "description": "Add component status to the storybook UI",
+      "downloads": 0
+    },
+    {
+      "package": "storybook-addon-next-router",
+      "emails": [
+        "aaron@lifeiscontent.net"
+      ],
+      "description": "Use Next.js Router in your Storybook stories.",
+      "downloads": 0
+    },
+    {
+      "package": "react-horizontal-scrolling-menu",
+      "emails": [
+        "asmyshlyaev177@gmail.com"
+      ],
+      "description": "Scrolling horizontal menu component for React, support mouse and touch devices.",
+      "downloads": 0
+    },
+    {
+      "package": "storybook-addon-performance",
+      "emails": [
+        "campbell.andrew46@gmail.com",
+        "areardon@atlassian.com",
+        "alex.hinds141@gmail.com",
+        "harsha.ivaturi@gmail.com",
+        "alexreardon@gmail.com"
+      ],
+      "description": "A storybook addon to help better understand and debug performance for React components",
+      "downloads": 0
+    },
+    {
+      "package": "@whitespace/storybook-addon-html",
+      "emails": [
+        "ruslanalogosha@gmail.com",
+        "paul.brotherton@whitespace.se",
+        "ynwuay@gmail.com",
+        "johan.westin@whitespace.se",
+        "benjamin@tsubarah.com",
+        "johan.de.geer@whitespace.se",
+        "code@whitespace.se",
+        "jeanfredrik@gmail.com"
+      ],
+      "description": "A Storybook addon that extracts and displays compiled syntax-highlighted HTML",
+      "downloads": 0
+    },
+    {
+      "package": "storybook-formik",
+      "emails": [
+        "bhishma_p@hotmail.com"
+      ],
+      "description": "A storybook addon that allows you to use components in your stories that rely on Formik context and see internal Formik state in a panel.",
+      "downloads": 0
+    },
+    {
+      "package": "@bbbtech/storybook-formik",
+      "emails": [
+        "bhishma_p@hotmail.com"
+      ],
+      "description": "A storybook addon that allows you to use components in your stories that rely on Formik context and see internal Formik state in a panel.",
+      "downloads": 0
+    },
+    {
+      "package": "storybook-zeplin",
+      "emails": [
+        "sertackarahoda@gmail.com",
+        "mertkahyaoglu93@gmail.com",
+        "yucel.n.okcu@gmail.com"
+      ],
+      "description": "Zeplin addon for Storybook",
+      "downloads": 0
+    },
+    {
+      "package": "storybook-mobile",
+      "emails": [
+        "aholachek@gmail.com"
+      ],
+      "description": "This addon offers suggestions on how you can improve the HTML, CSS and UX of your components to be more mobile-friendly.",
+      "downloads": 0
+    },
+    {
+      "package": "storybook-addons-abstract",
+      "emails": [
+        "andrew@amccloud.com"
+      ],
+      "description": "Abstract previews for storybook",
+      "downloads": 0
+    },
+    {
+      "package": "top-user-agents",
+      "emails": [
+        "josefrancisco.verdu@gmail.com",
+        "hello@microlink.io"
+      ],
+      "description": "A list of most common User Agent.",
+      "downloads": 0
+    },
+    {
+      "package": "@pbutlewski/storybook-html",
+      "emails": [
+        "piotr.butlewski@syzygy.pl"
+      ],
+      "description": "A Storybook addon that extracts and displays compiled syntax-highlighted HTML",
+      "downloads": 0
+    },
+    {
+      "package": "npm-high-impact",
+      "emails": [
+        "tituswormer@gmail.com"
+      ],
+      "description": "The high-impact (popular) packages of npm",
+      "downloads": 0
+    },
+    {
+      "package": "@gentslava/storybook-formik",
+      "emails": [
+        "gentslava@mail.ru"
+      ],
+      "description": "A storybook addon that allows you to use components in your stories that rely on Formik context and see internal Formik state in a panel.",
+      "downloads": 0
+    },
+    {
+      "package": "w3counter",
+      "emails": [
+        "kevinmartensson@gmail.com"
+      ],
+      "description": "Get ten most popular screen resolutions, browsers and operating systems",
+      "downloads": 0
+    },
+    {
+      "package": "lang-list",
+      "emails": [
+        "shadiabuhilal@gmail.com"
+      ],
+      "description": "Node.js lib helps to retrieve a list of supported languages to be used in web apps UI.",
+      "downloads": 0
+    },
+    {
+      "package": "hexo-related-posts",
+      "emails": [
+        "sergey@zwezdin.com"
+      ],
+      "description": "Hexo plugin that generates related posts list with TF/IDF algorithm",
+      "downloads": 0
+    },
+    {
+      "package": "@xfinx/storybook-addon-html",
+      "emails": [
+        "code@whitespace.se",
+        "bjorn+npm@boonen.eu"
+      ],
+      "description": "A Storybook addon that extracts and displays compiled syntax-highlighted HTML. Forked from @whitepace with prettier 3 support",
+      "downloads": 0
+    },
+    {
+      "package": "@gogaille/storybook-addon-next-router",
+      "emails": [
+        "aaron@lifeiscontent.net",
+        "armand@forgebinaire.net"
+      ],
+      "description": "Use Next.js Router in your Storybook stories.",
+      "downloads": 0
+    },
+    {
+      "package": "@avalane/storybook-addon-status",
+      "emails": [
+        "oyvinmar@gmail.com"
+      ],
+      "description": "Add component status to the storybook UI",
+      "downloads": 0
+    },
+    {
+      "package": "languages-list",
+      "emails": [
+        "bubkoo.wy@gmail.com"
+      ],
+      "description": "List of languages of the world.",
+      "downloads": 0
+    },
+    {
+      "package": "@linus_janns/storybook-addon-html",
+      "emails": [
+        "code@whitespace.se",
+        "npm.uniuj@mail.limpan.dev"
+      ],
+      "description": "A Storybook addon that extracts and displays compiled syntax-highlighted HTML",
+      "downloads": 0
+    },
+    {
+      "package": "email-domain-popular",
+      "emails": [
+        "olivier.wietrich@gmail.com"
+      ],
+      "description": "List of popular email domains",
+      "downloads": 0
+    },
+    {
+      "package": "top-crawler-agents",
+      "emails": [
+        "josefrancisco.verdu@gmail.com"
+      ],
+      "description": "A list of common crawler agents used on Internet..",
+      "downloads": 0
+    },
+    {
+      "package": "@beeq/storybook-addon-html",
+      "emails": [
+        "code@whitespace.se",
+        "dgonzalez83@gmail.com"
+      ],
+      "description": "A Storybook addon that extracts and displays compiled syntax-highlighted HTML",
+      "downloads": 0
+    },
+    {
+      "package": "popular-passwords",
+      "emails": [
+        "mvila@3base.com"
+      ],
+      "description": "List of popular passwords with at least 8 characters",
+      "downloads": 0
+    },
+    {
+      "package": "popular-movie-quotes",
+      "emails": [
+        "nikhilnamal16@gmail.com",
+        "nikhilnamal16@mail.com"
+      ],
+      "description": "A simple NPM package to get popular movie quotes",
+      "downloads": 0
+    },
+    {
+      "package": "apple-data",
+      "emails": [
+        "rickmark@outlook.com"
+      ],
+      "description": "Static data files from https://docs.hackdiffe.rent",
+      "downloads": 0
+    },
+    {
+      "package": "@reapit/storybook-addon-html",
+      "emails": [
+        "plittlewood@reapit.com",
+        "dscott@reapit.com",
+        "wmcvay@reapit.com",
+        "chowells@reapit.com"
+      ],
+      "description": "A Storybook addon that extracts and displays compiled syntax-highlighted HTML",
+      "downloads": 0
+    },
+    {
+      "package": "rovel.js",
+      "emails": [
+        "rovelstars300@gmail.com"
+      ],
+      "description": "The collection of best stuff & APIs you will love!",
+      "downloads": 0
+    },
+    {
+      "package": "popular-user-agents",
+      "emails": [
+        "paul@paulmillr.com"
+      ],
+      "description": "Regularly updated list of popular user agents aka browser versions",
+      "downloads": 0
+    },
+    {
+      "package": "@media-factory-cz/storybook-addon-html",
+      "emails": [
+        "code@whitespace.se",
+        "ondrej.elias@mediafactory.cz"
+      ],
+      "description": "A Storybook addon that extracts and displays compiled syntax-highlighted HTML",
+      "downloads": 0
+    },
+    {
+      "package": "holiday-event-api",
+      "emails": [
+        "seth@sethwestphal.com"
+      ],
+      "description": "Industry-leading holiday and event API for Node.js.",
+      "downloads": 0
+    },
+    {
+      "package": "popular-package",
+      "emails": [
+        "ajaynarainmathur@gmail.com"
+      ],
+      "description": "> Get the popularity stats of packages in a mono repository either internally or on npm for [bolt](https://github.com/boltpkg/bolt) or [lerna](https://github.com/lerna/lerna).",
+      "downloads": 0
+    },
+    {
+      "package": "flatspark",
+      "emails": [
+        "tusharkantanayak713@gmail.com"
+      ],
+      "description": "Your go-to CSS library for sleek, modern, and responsive web design",
+      "downloads": 0
+    },
+    {
+      "package": "personal-diagram",
+      "emails": [
+        "chileser@foxmail.com"
+      ],
+      "description": "personal-diagram",
+      "downloads": 0
+    },
+    {
+      "package": "cave-lose-web3-point",
+      "emails": [
+        "chileser@foxmail.com"
+      ],
+      "description": "cave-lose-web3-point",
+      "downloads": 0
+    },
+    {
+      "package": "rdl.js",
+      "emails": [
+        "rovelstars300@gmail.com"
+      ],
+      "description": "The official SDK/API Wrapper for Rovel Discord List",
+      "downloads": 0
+    },
+    {
+      "package": "@dgonzalezr/storybook-addon-html",
+      "emails": [
+        "dgonzalez83@gmail.com"
+      ],
+      "description": "A Storybook addon that extracts and displays compiled syntax-highlighted HTML",
+      "downloads": 0
+    },
+    {
+      "package": "division-triangle-them1",
+      "emails": [
+        "joe_weisenthal@foxmail.com"
+      ],
+      "description": "division-triangle-them1",
+      "downloads": 0
+    },
+    {
+      "package": "storybook-addon-dependencies",
+      "emails": [
+        "samuelandraderive@gmail.com"
+      ],
+      "description": "Browse across stories with an interactive dependency tree on autodocs page.",
+      "downloads": 0
+    },
+    {
+      "package": "js-pmq",
+      "emails": [
+        "mohamedtaysser112@yahoo.com",
+        "mohamedtaysser983@gmai.com"
+      ],
+      "description": "simple NPM package which returns popular movie quotes. ",
+      "downloads": 0
+    },
+    {
+      "package": "@wangjiezhe/hexo-related-posts",
+      "emails": [
+        "sergey@zwezdin.com",
+        "wangjiezhe@gmail.com"
+      ],
+      "description": "Hexo plugin that generates related posts list with TF/IDF algorithm",
+      "downloads": 0
+    },
+    {
+      "package": "begun-wood5",
+      "emails": [
+        "3750118611@qq.com"
+      ],
+      "description": "begun-wood5",
+      "downloads": 0
+    },
+    {
+      "package": "sp-answer",
+      "emails": [
+        "arafathusayn@gmail.com",
+        "hello@arafat.dev"
+      ],
+      "description": "Determine the surprisingly popular answer",
+      "downloads": 0
+    },
+    {
+      "package": "nuxt-analytics-data",
+      "emails": [
+        "l422y@l422y.com"
+      ],
+      "description": "Nuxt Analytics Data Module",
+      "downloads": 0
+    },
+    {
+      "package": "npm-popular",
+      "emails": [
+        "okize123@gmail.com"
+      ],
+      "description": "CLI tool that returns a list of an author's NPM modules ordered by number of downloads.",
+      "downloads": 0
+    },
+    {
+      "package": "stevetube",
+      "emails": [
+        "npm@michaelcolenso.com"
+      ],
+      "description": "an express app that scrapes the front page of youtube and displays the videos.",
+      "downloads": 0
+    },
+    {
+      "package": "what-version",
+      "emails": [
+        "pablo@pablopunk.com"
+      ],
+      "description": "List versions of popular projects or check the latest patch for a given version",
+      "downloads": 0
+    },
+    {
+      "package": "emoji-rankings",
+      "emails": [
+        "zeke@sikelianos.com"
+      ],
+      "description": "List of emoji ranked by frequency of use on Twitter",
+      "downloads": 0
+    },
+    {
+      "package": "blew-sick",
+      "emails": [
+        "web3_jack@qq.com"
+      ],
+      "description": "blew-sick",
+      "downloads": 0
+    },
+    {
+      "package": "@tanelterras-elisa/storybook-addon-html-raw-html",
+      "emails": [
+        "tanel.terras@elisa.ee"
+      ],
+      "description": "This a fork intended to make use of pull request in original addon: https://github.com/whitespace-se/storybook-addon-html/pull/61",
+      "downloads": 0
+    },
+    {
+      "package": "codemancer",
+      "emails": [
+        "m.moustafa@outlook.com"
+      ],
+      "description": "Code with GPT-4 from your command line",
+      "downloads": 0
+    },
+    {
+      "package": "@dgateles/storybook-addon-html",
+      "emails": [
+        "dga.teles@gmail.com"
+      ],
+      "description": "A Storybook addon that extracts and displays compiled syntax-highlighted HTML",
+      "downloads": 0
+    },
+    {
+      "package": "areamap-design",
+      "emails": [
+        "narendrahinge3@gmail.com"
+      ],
+      "description": "**The areamap design library provides a set of tools and components for integrating interactive area plan design into Angular applications.**",
+      "downloads": 0
+    },
+    {
+      "package": "gh-popular-words",
+      "emails": [
+        "xxsmotur@gmail.com"
+      ],
+      "description": "Show popular words from descriptions of user repositories",
+      "downloads": 0
+    },
+    {
+      "package": "@bee-q/storybook-addon-html",
+      "emails": [
+        "code@whitespace.se",
+        "dgonzalez83@gmail.com"
+      ],
+      "description": "A Storybook addon that extracts and displays compiled syntax-highlighted HTML",
+      "downloads": 0
+    },
+    {
+      "package": "@alteredgraphite/storybook-addon-performance",
+      "emails": [
+        "admin@alteredgraphite.com",
+        "areardon@atlassian.com"
+      ],
+      "description": "A storybook addon to help better understand and debug performance for React components",
+      "downloads": 0
+    },
+    {
+      "package": "nomine-lipsum",
+      "emails": [
+        "michaeldpadilla@gmail.com"
+      ],
+      "description": "A random name generator from the most popular names in the United States.",
+      "downloads": 0
+    },
+    {
+      "package": "lno.js",
+      "emails": [
+        "baugames099@gmail.com"
+      ],
+      "description": "The collection of best stuff & APIs you will love!",
+      "downloads": 0
+    },
+    {
+      "package": "uttori-plugin-vm-popular-documents",
+      "emails": [
+        "matthew.callis@gmail.com"
+      ],
+      "description": "A plugin to add popular documents to the view model.",
+      "downloads": 0
+    },
+    {
+      "package": "populartimes.js",
+      "emails": [
+        "blakereidstevenson@gmail.com",
+        "matiasbryan@gmail.com"
+      ],
+      "description": "Get the popular times of a place by scraping Google Maps.",
+      "downloads": 0
+    },
+    {
+      "package": "@pateta/storybook-addon-html",
+      "emails": [
+        "goofy-code@outlook.com",
+        "code@whitespace.se"
+      ],
+      "description": "A Storybook addon that extracts and displays compiled syntax-highlighted HTML",
+      "downloads": 0
+    },
+    {
+      "package": "its-jungle-mile-lamp",
+      "emails": [
+        "3645848984@qq.com"
+      ],
+      "description": "its-jungle-mile-lamp",
+      "downloads": 0
+    },
+    {
+      "package": "@uttori/plugin-vm-popular-documents",
+      "emails": [
+        "matthew.callis@gmail.com"
+      ],
+      "description": "A plugin to add popular documents to a view-model or other object.",
+      "downloads": 0
+    },
+    {
+      "package": "storybook-plugin-labels",
+      "emails": [
+        "mun4kin@gmail.com"
+      ],
+      "description": "Add component status to the storybook UI clone",
+      "downloads": 0
+    },
+    {
+      "package": "surprisingly-popular",
+      "emails": [
+        "arafathusayn@gmail.com",
+        "hello@arafat.dev"
+      ],
+      "description": "Determine the surprisingly popular answer",
+      "downloads": 0
+    },
+    {
+      "package": "@lpgera/storybook-addon-apollo-client",
+      "emails": [
+        "aaron@lifeiscontent.net",
+        "lpgera@gmail.com"
+      ],
+      "description": "Use Apollo Client in your Storybook stories.",
+      "downloads": 0
+    },
+    {
+      "package": "get-browsers",
+      "emails": [
+        "kevinmartensson@gmail.com"
+      ],
+      "description": "Get ten most popular web browsers",
+      "downloads": 0
+    },
+    {
+      "package": "@rmiller61/storybook-zeplin",
+      "emails": [
+        "ryanmiller732@gmail.com"
+      ],
+      "description": "Zeplin addon for Storybook",
+      "downloads": 0
+    },
+    {
+      "package": "air-shorter-web3-review",
+      "emails": [
+        "3750118611@qq.com"
+      ],
+      "description": "air-shorter-web3-review",
+      "downloads": 0
+    },
+    {
+      "package": "sdotjs",
+      "emails": [
+        "thefoxjones@gmail.com"
+      ],
+      "description": "Successor",
+      "downloads": 0
+    },
+    {
+      "package": "@un-known/storybook-addon-html",
+      "emails": [
+        "apetrushchak@gmail.com"
+      ],
+      "description": "A Storybook addon that extracts and displays compiled syntax-highlighted HTML for non framework development.",
+      "downloads": 0
+    },
+    {
+      "package": "npm-high-impact-cli",
+      "emails": [
+        "espen@hovlandsdal.com"
+      ],
+      "description": "Fetch the npm packages a user is a maintainer of and figure out which of them (if any) are considered high-impact",
+      "downloads": 0
+    },
+    {
+      "package": "humayun-react-components",
+      "emails": [
+        "humayun126224@gmail.com"
+      ],
+      "description": "This is my curiosity react components library",
+      "downloads": 0
+    },
+    {
+      "package": "nuxt-analytic-reports",
+      "emails": [
+        "chairuman.thahir@gmail.com"
+      ],
+      "description": "Nuxt Analytic Reports Module",
+      "downloads": 0
+    },
+    {
+      "package": "areamap-pck",
+      "emails": [
+        "narendrahinge3@gmail.com"
+      ],
+      "description": "**The areamap design library provides a set of tools and components for integrating interactive area plan design into Angular applications.**",
+      "downloads": 0
+    }
+  ]
+}
