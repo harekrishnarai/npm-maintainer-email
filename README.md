@@ -2,13 +2,12 @@
 
 ## Overview
 
-This project demonstrates how attackers historically harvested maintainer email addresses from the public npm registry API. Due to recent security improvements, the npm registry no longer exposes maintainer emails via its API. This repository is for educational and research purposes only, to raise awareness about past vulnerabilities and the importance of securing developer information.
+This project demonstrates how attackers historically harvested maintainer email addresses from the public npm registry API. This repository is for educational and research purposes only, to raise awareness about past vulnerabilities and the importance of securing developer information.
 
 ## ⚠️ Disclaimer
 
 - **This code is provided strictly for educational and research purposes.**
 - **Do not use this tool for malicious purposes or to violate the privacy of others.**
-- The maintainer email harvesting method shown here is no longer effective due to npm's security updates.
 - The authors and contributors are not responsible for any misuse of this code.
 
 ## How It Worked (Historically)
